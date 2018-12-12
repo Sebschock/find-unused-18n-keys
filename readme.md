@@ -26,4 +26,6 @@ Finds unused keys from 'en.json' in '.html' and '.ts' files in the root director
 python find_unused_keys.py -r /user/code/project -k en.json -f .html -f .ts
 `
 
+----
+
 Opensourced by [injurymap](https://www.injurymap.com)
